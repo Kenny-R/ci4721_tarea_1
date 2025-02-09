@@ -1,2 +1,4 @@
 parsec==3.17
 setuptools==75.8.0
+parsec==3.17
+setuptools==75.8.0
